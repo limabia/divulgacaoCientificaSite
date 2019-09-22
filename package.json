@@ -1,11 +1,11 @@
 {
-    "title": "One Page Wonder",
+    "title": "CiLearn - divulgação científica",
     "name": "startbootstrap-one-page-wonder",
     "version": "5.0.7",
     "scripts": {
         "start": "node_modules/.bin/gulp watch"
     },
-    "description": "A one page HTML template built with Bootstrap",
+    "description": "CiLearn. Aprenda. Compartilhe. Divirta-se. Ganhe.",
     "keywords": [
         "css",
         "sass",
